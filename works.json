@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Parking Management System",
+    "category": "Program",
+    "tags": ["C++", "OOP", "Binary files"],
+    "description": "Object-oriented console app for a 50-slot parking lot. Staff and admin logins, check-in and check-out, hourly billing, search, history and revenue, saved in binary .dat files.",
+    "file": "files/parking-management-system.zip"
+  },
+  {
+    "title": "Bus Ticket System",
+    "category": "Program",
+    "tags": ["C++", "File storage", "Admin menu"],
+    "description": "Console booking system with a password-protected admin menu to add, view and update buses, plus passenger bookings with seat numbers and payment status.",
+    "file": "files/bus-ticket-system.zip"
+  },
+  {
+    "title": "PDRoute Dispatch (Spiral 1)",
+    "category": "Program",
+    "tags": ["C++", "Input validation", "Structs"],
+    "description": "Terminal shell for package routing. It registers packages with validated input, three priority levels and a 500 kg vehicle limit, and prints an aligned queue table. Later modules are still planned.",
+    "file": "files/pdroute-dispatch.zip"
+  }
+]
