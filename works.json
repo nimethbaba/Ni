@@ -19,5 +19,12 @@
     "tags": ["C++", "Input validation", "Structs"],
     "description": "Terminal shell for package routing. It registers packages with validated input, three priority levels and a 500 kg vehicle limit, and prints an aligned queue table. Later modules are still planned.",
     "file": "files/pdroute-dispatch.zip"
+  },
+  {
+    "title":"Hotel Management System",
+    "category":"Template",
+    "tags": ["C", "Input validation", "Structs"],
+    "description": "Console booking system with masked password-protected admin menu to register, order with date validation, and generating automated check-out bills.",
+    "file": "files/Hotel-Management-System.zip"
   }
 ]
